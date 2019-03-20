@@ -1,4 +1,4 @@
-# PartialCards-CloudProject
+# RestfulAPI-PartialCards-CloudProject
 My first App Engine application written in Python using flask that will expose RESTful API handlers allowing for linking partial credit cards to customers. A pdf file with usage examples is provided.
 
 # Scope of the task
