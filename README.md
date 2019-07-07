@@ -10,4 +10,13 @@ You application should expose two HTTP API handlers:
 Postman - REST Client will allow you to interact with your API handlers without a GUI
 
 # Installation
+To use this template, your computer needs:
+
+1. Python 2 or 3
+2. Flask (pip install flask)
+3. Browse in the folder (e.g. using cmd)
+4. Running the app, type "python app.py" (e.g. in cmd)
+5. Browse to the IP which the console shows
+
+or
 https://cloud.google.com/appengine/docs/standard/python/getting-started/python-standard-env
