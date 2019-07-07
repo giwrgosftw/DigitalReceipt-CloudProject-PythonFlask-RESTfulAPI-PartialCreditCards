@@ -13,7 +13,7 @@ Postman - REST Client will allow you to interact with your API handlers without 
 
 https://cloud.google.com/appengine/docs/standard/python/getting-started/python-standard-env
 
-# How to run it
+# How to run the API
 To use this template, your computer needs:
 
 1. Python 2 or 3
