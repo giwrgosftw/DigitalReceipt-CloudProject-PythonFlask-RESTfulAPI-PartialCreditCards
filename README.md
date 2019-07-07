@@ -2,7 +2,7 @@
 My first App Engine application written in Python using flask that will expose RESTful API handlers allowing for linking partial credit cards to customers. A pdf file with usage examples is provided.
 
 # Scope of the task
-You application should expose two HTTP API handlers:
+The application should expose two HTTP API handlers:
 1. PUT handler that will accept partial credit card and customer information in JSON and store it.
 2. GET handler that will return matching customers in JSON given partial details of a credit card.
 
@@ -21,3 +21,7 @@ To use this template, your computer needs:
 3. Browse in the folder (e.g. using cmd)
 4. Running the app, type "python app.py" (e.g. in cmd)
 5. Browse to the IP which the console shows
+6. Run Postman and use the options Body -> raw -> JSON(application/json)
+
+# Video link
+https://youtu.be/xfcRV6PbOOg
