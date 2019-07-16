@@ -23,7 +23,9 @@ To use this template, your computer needs:
 5. Browse to the IP which the console shows
 6. Run Postman and use the options: Body -> raw -> JSON(application/json)
 7. Use the link:
+   
    *)"which IP the console shows"/customer/"the trailing digits of user's credit card"
+  
    *) e.g. http://localhost:5000/customer/"2416" or http://localhost:8080/customer/"2416"
 
 # Video link
