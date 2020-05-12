@@ -1,3 +1,3 @@
-Flask==0.12.4
+Flask==1.0
 Flask-RESTful==0.3.7
 Werkzeug<0.13.0,>=0.12.0
