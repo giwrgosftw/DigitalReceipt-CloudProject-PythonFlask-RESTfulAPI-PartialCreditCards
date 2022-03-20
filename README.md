@@ -1,5 +1,5 @@
-# RestfulAPI-PartialCards-CloudProject
-My first App Engine application is written in Python using Flask that will expose RESTful API handlers allowing for linking partial credit cards to customers. A pdf file with usage examples is provided.
+# 'Digital Receipt' Cloud Project | Python-Flask RESTful API Partial Credit Cards
+This is an App Engine application for my project called "Digital Receipt" and is written in Python-Flask. It exposes RESTful API handlers allowing for linking partial credit cards to customers. A pdf file with usage examples is also provided.
 
 # Scope of the task
 The application should expose two HTTP API handlers:
@@ -10,7 +10,6 @@ The application should expose two HTTP API handlers:
 Postman - REST Client will allow you to interact with your API handlers without a GUI
 
 # Installation
-
 https://cloud.google.com/appengine/docs/standard/python/getting-started/python-standard-env
 
 # How to run the API
@@ -27,9 +26,9 @@ To use this template, your computer needs:
    For example: http://localhost:5000/customer/"2416" or http://localhost:8080/customer/"2416"
 
 
-# Video link
+# Demo video link
 https://youtu.be/xfcRV6PbOOg
 
 # Part 2 - API Client
 You can find its API client here:
-https://github.com/giwrgosftw/C-API-Client-PartialCards-CloudProject
+https://github.com/giwrgosftw/DigitalReceipt-CloudProject-C-API-Client-PartialCreditCards
