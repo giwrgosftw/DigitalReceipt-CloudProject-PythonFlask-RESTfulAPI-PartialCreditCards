@@ -25,10 +25,9 @@ To use this template, your computer needs:
 
    For example: http://localhost:5000/customer/"2416" or http://localhost:8080/customer/"2416"
 
-
 # Demo video link
 https://youtu.be/xfcRV6PbOOg
 
-# Part 2 - API Client
+# API Client
 You can find its API client here:
 https://github.com/giwrgosftw/DigitalReceipt-CloudProject-C-API-Client-PartialCreditCards
